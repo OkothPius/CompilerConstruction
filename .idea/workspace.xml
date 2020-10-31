@@ -2,12 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab824adc-c56b-445f-bc83-37666ec097b0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/License.md" beforeDir="false" afterPath="$PROJECT_DIR$/License.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/recursiveParser/Recursive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/recursiveParser/Recursive.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="RecursiveDescentParser" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -25,13 +29,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Recursive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="recursiveParser.Recursive" />
+      <module name="RecursiveDescentParser" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="recursiveParser.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Recursive" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR,SHOW_INTERFACES" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -46,10 +74,63 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state x="395" y="124" width="847" height="677" key="#Project_Structure" timestamp="1603882716384">
       <screen x="0" y="27" width="1600" height="873" />
     </state>
     <state x="395" y="124" width="847" height="677" key="#Project_Structure/0.27.1600.873@0.27.1600.873" timestamp="1603882716384" />
+    <state width="1554" height="155" key="GridCell.Tab.0.bottom" timestamp="1603988186261">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state width="1554" height="155" key="GridCell.Tab.0.bottom/0.27.1600.873@0.27.1600.873" timestamp="1603988186261" />
+    <state width="1554" height="155" key="GridCell.Tab.0.center" timestamp="1603988186260">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state width="1554" height="155" key="GridCell.Tab.0.center/0.27.1600.873@0.27.1600.873" timestamp="1603988186260" />
+    <state width="1554" height="155" key="GridCell.Tab.0.left" timestamp="1603988186260">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state width="1554" height="155" key="GridCell.Tab.0.left/0.27.1600.873@0.27.1600.873" timestamp="1603988186260" />
+    <state width="1554" height="155" key="GridCell.Tab.0.right" timestamp="1603988186260">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state width="1554" height="155" key="GridCell.Tab.0.right/0.27.1600.873@0.27.1600.873" timestamp="1603988186260" />
+    <state x="659" y="187" width="272" height="550" key="RollbackChangesDialog" timestamp="1603991915802">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state x="659" y="187" width="272" height="550" key="RollbackChangesDialog/0.27.1600.873@0.27.1600.873" timestamp="1603991915802" />
+    <state x="283" y="40" width="1024" height="845" key="SettingsEditor" timestamp="1603992568810">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state x="283" y="40" width="1024" height="845" key="SettingsEditor/0.27.1600.873@0.27.1600.873" timestamp="1603992568810" />
+    <state x="100" y="125" width="1400" height="675" key="ShowDiffWithBranchDialog" timestamp="1603964459306">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state x="100" y="125" width="1400" height="675" key="ShowDiffWithBranchDialog/0.27.1600.873@0.27.1600.873" timestamp="1603964459306" />
+    <state x="395" y="198" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1603964348622">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state x="395" y="198" width="800" height="528" key="Vcs.Push.Dialog.v2/0.27.1600.873@0.27.1600.873" timestamp="1603964348622" />
+    <state x="100" y="125" width="1400" height="675" key="com.intellij.dvcs.ui.CompareBranchesDialog" timestamp="1603964409783">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state x="100" y="125" width="1400" height="675" key="com.intellij.dvcs.ui.CompareBranchesDialog/0.27.1600.873@0.27.1600.873" timestamp="1603964409783" />
+    <state x="464" y="208" key="run.anything.popup" timestamp="1603992128127">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state x="464" y="208" key="run.anything.popup/0.27.1600.873@0.27.1600.873" timestamp="1603992128127" />
   </component>
 </project>
